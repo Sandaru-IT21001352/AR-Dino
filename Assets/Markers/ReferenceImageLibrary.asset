@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4945272626856782239
+  m_GuidHigh: 6105538899886264705
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4766914587675153977
+      m_GuidHigh: 12229304316581296287
+    m_SerializedTextureGuid:
+      m_GuidLow: 15327074387810629892
+      m_GuidHigh: 1073551240413889224
+    m_Size: {x: 1, y: 0.813}
+    m_SpecifySize: 0
+    m_Name: Stegasaurus_M
+    m_Texture: {fileID: 2800000, guid: 0b70b904b4f3d4b4c8c20c4d2a05e60e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4875903309834988679
+      m_GuidHigh: 4415994656344391555
+    m_SerializedTextureGuid:
+      m_GuidLow: 15307826022001794479
+      m_GuidHigh: 129524096152934409
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 0
+    m_Name: Raptor_M
+    m_Texture: {fileID: 2800000, guid: a4e5ddaf52a9d47009980cad7a29cc01, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4796560380747085976
+      m_GuidHigh: 3617623383687288979
+    m_SerializedTextureGuid:
+      m_GuidLow: 12984091908819364836
+      m_GuidHigh: 3132432192641099386
+    m_Size: {x: 1, y: 1.01625}
+    m_SpecifySize: 0
+    m_Name: Pachy_M
+    m_Texture: {fileID: 2800000, guid: 6433abe4c2ccb4307ae65e9d7ba2782b, type: 3}
